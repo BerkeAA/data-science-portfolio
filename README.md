@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## About Me
-Hello! I'm a data scientist passionate about extracting meaningful insights from complex datasets. This portfolio showcases my projects, skills, and experience in the field of data science and machine learning.
+This is a test for Github MCP 
 
 ## 🎓 Skills & Expertise
 
